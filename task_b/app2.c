@@ -25,8 +25,8 @@ int main() {
 // run "child" in "childStack"'s size and clone parent
     int myclone1 = clone(child1, child_stack+STACK_SIZE, CLONE_PARENT, 0);
     int myclone2 = clone(child1, child_stack+STACK_SIZE, CLONE_PARENT, 0);
-    printf("clone id = %d\n", clone1);
-    printf("clone id = %d\n", clone2);
+    printf("clone id = %d\n", myclone1 );
+    printf("clone id = %d\n", myclone2 );
     child1();
     printf("parent id %d\n", getpid());
     return 0;
