@@ -1,0 +1,36 @@
+Apr  4 16:54:35 kobi-VirtualBox myDaemon[3412]: daemon started
+Apr  4 16:54:41 kobi-VirtualBox myDaemon[3412]: daemon doing some work
+Apr  4 16:54:47 kobi-VirtualBox myDaemon[3412]: daemon finished
+Apr  4 16:55:36 kobi-VirtualBox myDaemon[3425]: daemon started
+Apr  4 16:55:42 kobi-VirtualBox myDaemon[3425]: daemon doing some work
+Apr  4 16:55:48 kobi-VirtualBox myDaemon[3425]: daemon finished
+Apr  4 19:16:16 kobi-VirtualBox myDaemon[3806]: daemon started
+Apr  4 19:16:22 kobi-VirtualBox myDaemon[3806]: daemon doing some work
+Apr  4 19:16:28 kobi-VirtualBox myDaemon[3806]: daemon finished
+Apr  4 19:16:56 kobi-VirtualBox myDaemon[3811]: daemon started
+Apr  4 19:17:01 kobi-VirtualBox myDaemon[3816]: daemon started
+Apr  4 19:17:02 kobi-VirtualBox myDaemon[3811]: daemon doing some work
+Apr  4 19:17:04 kobi-VirtualBox myDaemon[3818]: daemon started
+Apr  4 19:17:05 kobi-VirtualBox myDaemon[3820]: daemon started
+Apr  4 19:17:06 kobi-VirtualBox myDaemon[3822]: daemon started
+Apr  4 19:17:07 kobi-VirtualBox myDaemon[3824]: daemon started
+Apr  4 19:17:07 kobi-VirtualBox myDaemon[3816]: daemon doing some work
+Apr  4 19:17:08 kobi-VirtualBox myDaemon[3811]: daemon finished
+Apr  4 19:17:10 kobi-VirtualBox myDaemon[3818]: daemon doing some work
+Apr  4 19:17:10 kobi-VirtualBox myDaemon[3826]: daemon started
+Apr  4 19:17:11 kobi-VirtualBox myDaemon[3820]: daemon doing some work
+Apr  4 19:17:11 kobi-VirtualBox myDaemon[3828]: daemon started
+Apr  4 19:17:12 kobi-VirtualBox myDaemon[3822]: daemon doing some work
+Apr  4 19:17:13 kobi-VirtualBox myDaemon[3824]: daemon doing some work
+Apr  4 19:17:13 kobi-VirtualBox myDaemon[3816]: daemon finished
+Apr  4 19:17:15 kobi-VirtualBox myDaemon[3830]: daemon started
+Apr  4 19:17:16 kobi-VirtualBox myDaemon[3818]: daemon finished
+Apr  4 19:17:16 kobi-VirtualBox myDaemon[3826]: daemon doing some work
+Apr  4 19:17:17 kobi-VirtualBox myDaemon[3820]: daemon finished
+Apr  4 19:17:17 kobi-VirtualBox myDaemon[3828]: daemon doing some work
+Apr  4 19:17:18 kobi-VirtualBox myDaemon[3822]: daemon finished
+Apr  4 19:17:19 kobi-VirtualBox myDaemon[3824]: daemon finished
+Apr  4 19:17:21 kobi-VirtualBox myDaemon[3830]: daemon doing some work
+Apr  4 19:17:22 kobi-VirtualBox myDaemon[3826]: daemon finished
+Apr  4 19:17:23 kobi-VirtualBox myDaemon[3828]: daemon finished
+Apr  4 19:17:27 kobi-VirtualBox myDaemon[3830]: daemon finished
